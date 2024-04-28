@@ -1,0 +1,196 @@
+.connection,
+.organize-the,
+.we {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  line-height: 44px;
+  font-weight: 500;
+}
+.connection,
+.organize-the {
+  left: 407px;
+}
+.connection {
+  top: 113px;
+  left: 0;
+}
+.art,
+.artist,
+.between,
+.collections2,
+.culture,
+.music {
+  position: absolute;
+  top: 232px;
+  left: 361px;
+  line-height: 44px;
+  font-weight: 500;
+}
+.art,
+.artist,
+.collections2,
+.culture,
+.music {
+  left: 869px;
+}
+.art,
+.artist,
+.collections2,
+.culture {
+  top: 343px;
+  left: 0;
+}
+.art,
+.collections2,
+.culture {
+  top: 341px;
+  left: 474px;
+}
+.art,
+.collections2 {
+  top: 452px;
+  left: 242px;
+}
+.collections2 {
+  top: 457px;
+  left: 554px;
+}
+.image-140-icon,
+.image-143-icon {
+  position: absolute;
+  top: -20px;
+  left: 0;
+  width: 371px;
+  height: 120px;
+  object-fit: cover;
+}
+.image-143-icon {
+  top: -144px;
+  left: -77px;
+  width: 523px;
+  height: 349px;
+}
+.image-140-parent {
+  position: absolute;
+  top: 0;
+  left: 120px;
+  width: 276px;
+  height: 61px;
+  overflow: hidden;
+  background-image: url(/public/frame-1261154651@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 98px;
+  left: 464px;
+  width: 391px;
+  height: 74px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-item {
+  top: 221px;
+  left: 5px;
+  width: 341px;
+}
+.image-138-icon,
+.image-139-icon {
+  position: absolute;
+  top: -67px;
+  left: 0;
+  width: 158px;
+  height: 141px;
+  object-fit: cover;
+}
+.image-139-icon {
+  top: -219px;
+  left: -131px;
+  width: 414px;
+  height: 654px;
+}
+.image-138-parent {
+  position: absolute;
+  top: 446px;
+  left: 5px;
+  width: 227px;
+  height: 74px;
+  overflow: hidden;
+  background-image: url(/public/frame-1261154663@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.group-inner {
+  position: absolute;
+  top: 447px;
+  left: 377px;
+  width: 151px;
+  height: 74px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-child1,
+.group-child2,
+.group-child3 {
+  top: 330px;
+  left: 249px;
+  width: 203px;
+}
+.group-child2,
+.group-child3 {
+  left: 781px;
+  width: 307px;
+}
+.group-child3 {
+  top: 221px;
+  left: 691px;
+  width: 167px;
+}
+.we-parent {
+  position: absolute;
+  top: 279px;
+  left: 215px;
+  width: 1089px;
+  height: 521px;
+}
+.emlblem-icon {
+  width: 57px;
+  height: 50.9px;
+  object-fit: contain;
+}
+.astrix2,
+.emlblem-icon {
+  position: relative;
+}
+.astrix-logo {
+  position: absolute;
+  top: 88px;
+  left: 50px;
+  width: 406px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: 44px;
+  font-family: var(--font-space-grotesk);
+}
+.splash-screen-slide-2-collect {
+  width: 100%;
+  position: relative;
+  background-color: #fff4df;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--astrix-beta-heading-s);
+}

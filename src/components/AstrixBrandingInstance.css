@@ -1,0 +1,51 @@
+.astrix-branding-icon {
+  height: 74.2px;
+  width: 74.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: -8px;
+  left: -23.8px;
+  object-fit: contain;
+}
+.astrix3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.25px;
+  line-height: 64px;
+  font-weight: 800;
+  font-family: inherit;
+}
+.astrix-branding-instance,
+.astrix-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.astrix-wrapper {
+  flex: 1;
+  justify-content: flex-end;
+}
+.astrix-branding-instance {
+  width: 217px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--palette-pac-man-500);
+  font-family: var(--astrix-beta-heading-s);
+}
+@media screen and (max-width: 1050px) {
+  .astrix3 {
+    font-size: var(--font-size-13xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .astrix3 {
+    font-size: var(--astrix-beta-heading-s-size);
+    line-height: 38px;
+  }
+}
